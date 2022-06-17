@@ -1,1 +1,2 @@
 # challenge-one
+For this challenge, I first replaced the revelvant non-semantic tags, like <div>, with more descriptive tags like <header> and <article>. From there, I added alt text descriptions to each of the images. Then I restructured the heading section so it would appear inline, centered the footer, and included comments as I reorganized and spaced out the CSS section. I then respaced the HTML section for clairity and modified the CSS page so there were fewer redundant repeating items.
